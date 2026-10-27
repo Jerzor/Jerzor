@@ -11,7 +11,7 @@ I've been building production web and mobile apps since 2022. Most of my work is
 
 ## 🛠 Tech stack
 
-- **Frontend:** React, TypeScript, Next.js, Angular, React Native, TanStack Query, Redux, Zustand, React Hook Form, Zod, Tailwind CSS
+- **Frontend:** React, TypeScript, Angular, React Native, TanStack Query, Redux, Zustand, React Hook Form, Zod, Tailwind CSS
 - **Backend:** Node.js, NestJS, PHP (Laravel), REST / OpenAPI, JWT & RBAC, Prisma, TypeORM, BullMQ, RabbitMQ
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 - **Testing:** Jest, Vitest, React Testing Library, Cypress, PHPUnit, k6, Artillery
